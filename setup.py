@@ -10,7 +10,7 @@ with open('README.md') as f:
 
 setup(
     name='langdetect',
-    version='1.0.9',
+    version='1.0.9.1',
     description='Language detection library ported from Google\'s language-detection.',
     long_description=readme,
     long_description_content_type='text/markdown',
